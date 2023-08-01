@@ -6,4 +6,17 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of RBaseCourse is to …
+The goal of `RBaseCourse` is to …
+
+## Topics
+
+1.  Intro to R language;
+2.  R objects & classes;
+3.  Vectors;
+4.  Matrix;
+5.  Data.frames;
+6.  Lists;
+7.  Control structures;
+8.  Data import/export;
+9.  Plot;
+10. Stats.
